@@ -118,6 +118,7 @@ Columns: Days of the Week (Mon-Sun)
 Values: Selected Dynamic Measure (e.g., Total Bookings)
 Highlights peak booking hours across different days.
 
+https://github.com/Shreyaviit2026/Uber_Trip_Dashboard/blob/main/Time_Analysis.png
 
 
 
