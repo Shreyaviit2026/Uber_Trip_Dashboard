@@ -20,10 +20,6 @@ Expected Outcomes:
 
 https://github.com/Shreyaviit2026/Uber_Trip_Dashboard/blob/main/Overview_Analysis.png
 
-
-
-
-
 CHART’s
 Create a Measure Selector using a Disconnected Table with the following values:
 Total Bookings
@@ -70,9 +66,6 @@ Determine the most frequently booked vehicle type at each pickup location.
 Supports strategic vehicle distribution based on customer preferences and location demand.
 
 
-
-
-
 Other Implementation Enhancements for Uber Trip Analysis Dashboard
 Bookmark for Data Details 
 Add a "Data Details" bookmark to display a pop-up or side panel explaining:
@@ -86,15 +79,6 @@ Download Raw Data Button
 Add a button to export raw data in CSV or Excel format.
 Use Power Automate or built-in Power BI Export functionality.
 Enables users to analyse raw data outside Power BI if needed.
-
-
-
-
-
-
-
-
-
 
 
 DAHBOARD 2: TIME ANALYSIS
@@ -121,7 +105,6 @@ Highlights peak booking hours across different days.
 https://github.com/Shreyaviit2026/Uber_Trip_Dashboard/blob/main/Time_Analysis.png
 
 
-
 DAHBOARD 3: DETAILS TAB
 To provide in-depth insights and allow users to explore granular data, a Grid Tab will be created. This tab will enable drill-through functionality, allowing users to access detailed records based on selections made in other dashboards.
 Features of the Grid Tab:
@@ -133,3 +116,5 @@ Displays detailed records related to the selected data point.
 Bookmark for Full Data View:
 A "View Full Data" bookmark to toggle between filtered drill-through data and the complete dataset.
 Allows users to reset filters and see all records easily.
+
+https://github.com/Shreyaviit2026/Uber_Trip_Dashboard/blob/main/Details_Analysis.png
